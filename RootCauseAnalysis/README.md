@@ -27,8 +27,8 @@ We use CRIEd (Clarify, Rule out, Internal data, External data) framework to do R
     * Exploring the possibilities and listing out some high level causes
     eg: internet breakage, negative campaign, server break down...
   
-* Internal Data:
-
+**Internal Data**
+--
     For Internal Data (Factors), we use another framework called TROPiCS (Time, Region, Other features, Platform, Cannabalisation, Segementation) and if the product on which we're performing is a marketplace we do prefer Customer User Journey (CUJ) too
 
 * Customer User Journey:
