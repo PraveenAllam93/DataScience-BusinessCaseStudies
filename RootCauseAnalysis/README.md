@@ -56,10 +56,11 @@ eg: internet breakage, negative campaign, server break down...
    * Segmentation, grouping the data checking the issue over differnet groups like age, gender, marital status, exsitsing users vs new users, power users vs casual users....
 
 
-* External Data :
-   * Chekcing if the competitor is doing good
-   * It could also be due to seasonality or a major temporary event
-   * Good PR
+*External Data*
+--
+* Chekcing if the competitor is doing good
+* It could also be due to seasonality or a major temporary event
+* Good PR
    
    
 *After all these steps we can get to a solution to solve the issue, the RCA should be done step by step which is a slow process sometimes but helps to solve the core issue*   
