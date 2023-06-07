@@ -40,13 +40,27 @@ We use CRIEd (Clarify, Rule out, Internal data, External data) framework to do R
    
    In the CUJ we check the percentage of drop offs at every step, is it similar to the hisotical data or not. If we observe any difference we perform TROPiCS framework in that particular stage where we saw the difference
    
-   
-
- 
  
   <img width="396" alt="Screenshot 2023-06-07 at 15 45 18" src="https://github.com/PraveenAllam93/DataScience-BusinessCaseStudies/assets/33192828/b295cacb-68af-47ba-922f-449577526233">
   
   These are the stages in most of the marketplaces applications
+  
+* TROPiCS:
+   * Time, we check any differneces with respect any timeframe of the day
+   * Region, we check if the issue is restricted to any particular region or place or whole world
+   * Other realted features, we check if the other related features with this issues are also getting effected or not
+   * Platform, if the issue is with web app or iOS or Android
+   * Cannibalization, checking if any of our own product is the reason for this issue
+   * Segmentation, grouping the data checking the issue over differnet groups like age, gender, marital status, exsitsing users vs new users, power users vs casual users....
+
+
+* External Data :
+   * Chekcing if the competitor is doing good
+   * It could also be due to seasonality or a major temporary event
+   * Good PR
+   
+   
+*After all these steps we can get to a solution to solve the issue, the RCA should be done step by step which is a slow process sometimes but helps to solve the core issue*   
 
   
   
