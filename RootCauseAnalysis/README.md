@@ -17,17 +17,22 @@
 --
 We use CRIEd (Clarify, Rule out, Internal data, External data) framework to do RCA
 
-* Clarify :
+* Clarify :*
+--
   * Understanding the problem in depth
   * Calrification of terms and parameters
   * Creating an outline to the approach
 
-* Rule out:
+* Rule out :*
+--
   * Ruling out the issues that seems that are out of scope 
   * Exploring the possibilities and listing out some high level causes
   eg: internet breakage, negative campaign, server break down...
   
 * Internal Data:
+
+For Internal Data (Factors), we use another framework called TROPiCS (Time, Region, Other features, Platform, Cannabalisation, Segementation) and if the product on which we're performing is a marketplace we do prefer Customer User Journey (CUJ) too.
+
 * Customer User Journey:
    * A session is the period of time that passes from the moment that an application is launched until it is closed. 
 
