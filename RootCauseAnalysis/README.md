@@ -29,7 +29,9 @@ We use CRIEd (Clarify, Rule out, Internal data, External data) framework to do R
   
 **Internal Data**
 --
-    For Internal Data (Factors), we use another framework called TROPiCS (Time, Region, Other features, Platform, Cannabalisation, Segementation) and if the product on which we're performing is a marketplace we do prefer Customer User Journey (CUJ) too
+   For Internal Data (Factors), we use another framework called 
+   1. TROPiCS (Time, Region, Other features, Platform, Cannabalisation, Segementation) and 
+   2. if the product on which we're performing is a marketplace we do prefer Customer User Journey (CUJ) too
 
 * Customer User Journey:
    * A session is the period of time that passes from the moment that an application is launched until it is closed
