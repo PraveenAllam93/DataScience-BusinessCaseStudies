@@ -17,7 +17,7 @@
 --
 We use CRIEd (Clarify, Rule out, Internal data, External data) framework to do RCA
 
-* Clarify:
+*** Clarify ***:
 --
   * Understanding the problem in depth
   * Calrification of terms and parameters
