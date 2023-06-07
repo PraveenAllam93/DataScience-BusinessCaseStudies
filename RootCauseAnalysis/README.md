@@ -37,7 +37,7 @@ We use CRIEd (Clarify, Rule out, Internal data, External data) framework to do R
 
    The basic customer user journey over marketplace products
    
-      * A session is the period of time that passes from the moment that an application is launched until it is closed. 
+     * A session is the period of time that passes from the moment that an application is launched until it is closed. 
 
  
  
