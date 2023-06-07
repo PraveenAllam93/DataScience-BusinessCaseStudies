@@ -1,4 +1,4 @@
-# DataScience-BusinessCaseStudies
+## Root Cause Analysis
 
 **What is Root Cause Analysis?**
 --
@@ -28,9 +28,14 @@ We use CRIEd (Clarify, Rule out, Internal data, External data) framework to do R
   eg: internet breakage, negative campaign, server break down...
   
 * Internal Data:
-  For Internal Data (Factors), we use another framework called TROPiCS (Time, Region, Other features, Platform, Cannabalisation, Segementation)
   
+  For Internal Data (Factors), we use another framework called TROPiCS (Time, Region, Other features, Platform, Cannabalisation, Segementation) and if the product on which we're performing is a marketplace we do prefer Customer User Journey (CUJ) too.
   
+  * Customer User Journey:
+  
+  <img width="396" alt="Screenshot 2023-06-07 at 15 29 08" src="https://github.com/PraveenAllam93/DataScience-BusinessCaseStudies/assets/33192828/c3730ded-0e8c-4918-9641-08110165b51f">
+  The basic customer user journey over marketplace products
+
  
  
   
