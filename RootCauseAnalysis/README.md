@@ -28,8 +28,8 @@ We use CRIEd (Clarify, Rule out, Internal data, External data) framework to do R
   eg: internet breakage, negative campaign, server break down...
   
 * Internal Data:
-  * Customer User Journey:
-   - A session is the period of time that passes from the moment that an application is launched until it is closed. 
+* Customer User Journey:
+   * A session is the period of time that passes from the moment that an application is launched until it is closed. 
 
  
  
