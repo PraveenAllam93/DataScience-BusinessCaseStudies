@@ -34,6 +34,7 @@ We use CRIEd (Clarify, Rule out, Internal data, External data) framework to do R
   * Customer User Journey:
   
   <img width="396" alt="Screenshot 2023-06-07 at 15 29 08" src="https://github.com/PraveenAllam93/DataScience-BusinessCaseStudies/assets/33192828/c3730ded-0e8c-4918-9641-08110165b51f">
+  
   The basic customer user journey over marketplace products
 
  
