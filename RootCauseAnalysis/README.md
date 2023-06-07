@@ -19,15 +19,15 @@ We use CRIEd (Clarify, Rule out, Internal data, External data) framework to do R
 
 * Clarify :*
 --
-  * Understanding the problem in depth
-  * Calrification of terms and parameters
-  * Creating an outline to the approach
+* Understanding the problem in depth
+* Calrification of terms and parameters
+* Creating an outline to the approach
 
 * Rule out :*
 --
-  * Ruling out the issues that seems that are out of scope 
-  * Exploring the possibilities and listing out some high level causes
-  eg: internet breakage, negative campaign, server break down...
+* Ruling out the issues that seems that are out of scope 
+* Exploring the possibilities and listing out some high level causes
+eg: internet breakage, negative campaign, server break down...
   
 * Internal Data:
 
