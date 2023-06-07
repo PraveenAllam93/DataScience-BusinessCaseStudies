@@ -29,13 +29,22 @@ We use CRIEd (Clarify, Rule out, Internal data, External data) framework to do R
   
 * Internal Data:
 
-    For Internal Data (Factors), we use another framework called TROPiCS (Time, Region, Other features, Platform, Cannabalisation, Segementation) and if the product on which we're performing is a marketplace we do prefer Customer User Journey (CUJ) too.
+    For Internal Data (Factors), we use another framework called TROPiCS (Time, Region, Other features, Platform, Cannabalisation, Segementation) and if the product on which we're performing is a marketplace we do prefer Customer User Journey (CUJ) too
 
 * Customer User Journey:
-   * A session is the period of time that passes from the moment that an application is launched until it is closed. 
+   * A session is the period of time that passes from the moment that an application is launched until it is closed
+   * The step at which the user closes the application is a drop off for that step
+   * If a user leaves the home page without taking any further action, it is known as a bounce rate
+   
+   In the CUJ we check the percentage of drop offs at every step, is it similar to the hisotical data or not. If we observe any difference we perform TROPiCS framework in that particular stage where we saw the difference
+   
+   
 
  
  
+  <img width="396" alt="Screenshot 2023-06-07 at 15 45 18" src="https://github.com/PraveenAllam93/DataScience-BusinessCaseStudies/assets/33192828/b295cacb-68af-47ba-922f-449577526233">
   
+  These are the stages in most of the marketplaces applications
+
   
   
